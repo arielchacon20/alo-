@@ -1,3 +1,4 @@
+# Ariel Chacon Simon Veas
 import cx_Oracle
 import os
 import tkinter
