@@ -1,0 +1,1 @@
+para iniciar el programa tiene que correr el archivo "ventana.py"
